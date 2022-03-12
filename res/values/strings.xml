@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BradleyPrieskornSchedulerApp</string>
+    <string name="termLabel">Terms</string>
+    <string name="courseLabel">Courses</string>
+    <string name="assessmentLabel">Assessments</string>
+    <string name="courseAddLabel">Add Course</string>
+    <string name="termAddLabel">Add Term</string>
+    <string name="assessmentDetailLabel">Assessment Details</string>
+    <string name="assessmentAddLabel">Add Assessment</string>
+    <string name="termTitleLabel">Term Title</string>
+    <string name="dateHintLabel">MM/DD/YYYY</string>
+    <string name="saveButtonLabel">Save</string>
+    <string name="termStartLabel">Term Start</string>
+    <string name="termEndLabel">Term End</string>
+    <string name="refreshTitle">Refresh</string>
+    <string name="noTerms"> Please Add A Term To Get Started</string>
+    <string name="courseTitleLabel">Course Title</string>
+    <string name="courseSeek">Status</string>
+    <string name="instructorName">Instructor</string>
+    <string name="instructorEmail">Instructor Email</string>
+    <string name="instructorPhone">Instructor Phone</string>
+    <string name="courseStartLabel">Course Start</string>
+    <string name="courseEndLabel">Course End</string>
+    <string name="editButtonLabel">Course Details/Edit</string>
+    <string name="courseEditLabel">CourseDetails/Edit</string>
+    <string name="assessmentTitleLabel">Assessment Title</string>
+    <string name="assessmentTypeLabel">Assessment Type</string>
+    <string name="assessmentEndLabel">Assessment End</string>
+    <string name="shareNoteButton">Share Note</string>
+    <string name="notify">Notify</string>
+    <string name="channelName">channelname</string>
+    <string name="channelDescription">channel description</string>
+</resources>
