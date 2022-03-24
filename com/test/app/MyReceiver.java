@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp;
+package com.test.bradleyprieskornschedulerapp;
 
 import android.app.Notification;
 import android.app.NotificationChannel;

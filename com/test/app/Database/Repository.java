@@ -1,13 +1,13 @@
-package com.zybooks.bradleyprieskornschedulerapp.Database;
+package com.test.app.Database;
 
 import android.app.Application;
 
-import com.zybooks.bradleyprieskornschedulerapp.DAO.AssessmentDAO;
-import com.zybooks.bradleyprieskornschedulerapp.DAO.CourseDAO;
-import com.zybooks.bradleyprieskornschedulerapp.DAO.TermDAO;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.CourseEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
+import com.test.app.DAO.AssessmentDAO;
+import com.test.app.DAO.CourseDAO;
+import com.test.app.DAO.TermDAO;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.Entities.CourseEntity;
+import com.test.app.Entities.TermEntity;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

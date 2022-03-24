@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.Database;
+package com.test.app.Database;
 
 import android.content.Context;
 import android.provider.ContactsContract;
@@ -7,12 +7,12 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-import com.zybooks.bradleyprieskornschedulerapp.DAO.AssessmentDAO;
-import com.zybooks.bradleyprieskornschedulerapp.DAO.CourseDAO;
-import com.zybooks.bradleyprieskornschedulerapp.DAO.TermDAO;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.CourseEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
+import com.test.app.DAO.AssessmentDAO;
+import com.test.app.DAO.CourseDAO;
+import com.test.app.DAO.TermDAO;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.Entities.CourseEntity;
+import com.test.app.Entities.TermEntity;
 
 @Database(entities = {TermEntity.class, CourseEntity.class, AssessmentEntity.class}, version = 4, exportSchema = false)
 public abstract class DatabaseBuilder extends RoomDatabase {

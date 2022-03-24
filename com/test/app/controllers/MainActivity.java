@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.controllers;
+package com.test.app.controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,11 +9,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.zybooks.bradleyprieskornschedulerapp.Database.Repository;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.CourseEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
-import com.zybooks.bradleyprieskornschedulerapp.R;
+import com.test.app.Database.Repository;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.Entities.CourseEntity;
+import com.test.app.Entities.TermEntity;
+import com.test.app.R;
 
 public class MainActivity extends AppCompatActivity {
 

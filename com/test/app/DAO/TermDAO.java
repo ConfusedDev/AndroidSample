@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.DAO;
+package com.test.app.DAO;
 
 import androidx.room.Dao;
 import androidx.room.Delete;
@@ -7,7 +7,7 @@ import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
+import com.test.app.Entities.TermEntity;
 
 import java.util.List;
 

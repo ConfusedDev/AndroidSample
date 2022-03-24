@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.adapters;
+package com.test.app.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,11 +10,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.CourseEntity;
-import com.zybooks.bradleyprieskornschedulerapp.R;
-import com.zybooks.bradleyprieskornschedulerapp.controllers.AssessmentActivity;
-import com.zybooks.bradleyprieskornschedulerapp.controllers.AssessmentDetailActivity;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.Entities.CourseEntity;
+import com.test.app.R;
+import com.test.app.controllers.AssessmentActivity;
+import com.test.app.controllers.AssessmentDetailActivity;
 
 import java.util.List;
 

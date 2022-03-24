@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.controllers;
+package com.test.app.controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,10 +14,10 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import com.zybooks.bradleyprieskornschedulerapp.Database.Repository;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.MyReceiver;
-import com.zybooks.bradleyprieskornschedulerapp.R;
+import com.test.app.Database.Repository;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.MyReceiver;
+import com.test.app.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

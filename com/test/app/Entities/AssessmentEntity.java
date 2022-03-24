@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.Entities;
+package com.test.app.Entities;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

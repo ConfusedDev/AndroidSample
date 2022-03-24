@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.controllers;
+package com.test.app.controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -17,14 +17,14 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.zybooks.bradleyprieskornschedulerapp.Database.Repository;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.AssessmentEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.CourseEntity;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
-import com.zybooks.bradleyprieskornschedulerapp.MyReceiver;
-import com.zybooks.bradleyprieskornschedulerapp.R;
-import com.zybooks.bradleyprieskornschedulerapp.adapters.AssessmentRecyclerAdapter;
-import com.zybooks.bradleyprieskornschedulerapp.adapters.CourseRecyclerAdapter;
+import com.test.app.Database.Repository;
+import com.test.app.Entities.AssessmentEntity;
+import com.test.app.Entities.CourseEntity;
+import com.test.app.Entities.TermEntity;
+import com.test.app.MyReceiver;
+import com.test.app.R;
+import com.test.app.adapters.AssessmentRecyclerAdapter;
+import com.test.app.adapters.CourseRecyclerAdapter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

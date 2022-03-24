@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.adapters;
+package com.test.app.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,9 +12,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
-import com.zybooks.bradleyprieskornschedulerapp.R;
-import com.zybooks.bradleyprieskornschedulerapp.controllers.CourseActivity;
+import com.test.app.Entities.TermEntity;
+import com.test.app.R;
+import com.test.app.controllers.CourseActivity;
 
 import java.util.List;
 

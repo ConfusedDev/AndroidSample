@@ -1,4 +1,4 @@
-package com.zybooks.bradleyprieskornschedulerapp.controllers;
+package com.test.app.controllers;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,9 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.zybooks.bradleyprieskornschedulerapp.Database.Repository;
-import com.zybooks.bradleyprieskornschedulerapp.Entities.TermEntity;
-import com.zybooks.bradleyprieskornschedulerapp.R;
+import com.test.app.Database.Repository;
+import com.test.app.Entities.TermEntity;
+import com.test.app.R;
 
 import java.text.SimpleDateFormat;
 
